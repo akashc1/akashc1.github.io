@@ -23,8 +23,8 @@ print_hi('Tom')
 {% endhighlight %}
 
 {% highlight python %}
-def print_hi(to_print):
-    print(to_print)
+def print_hi(name):
+    print(name)
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
