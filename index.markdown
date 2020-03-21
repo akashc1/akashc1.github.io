@@ -6,3 +6,9 @@ layout: home
 ---
 
 ### Welcome to my landing page!
+
+Subpages:
+- Projects
+- About
+- CV
+
