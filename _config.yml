@@ -39,10 +39,6 @@ header_pages:
 minima:
     skin: sunrise
 
-defaults:
-    - scope:
-        path: ""
-        type: about
 
 # Exclude from processing.
 # The following items will not be processed, by default.
