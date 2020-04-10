@@ -28,8 +28,6 @@ github_username:  akashc1
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 header_pages:
     - about.markdown
