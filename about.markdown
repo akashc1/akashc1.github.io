@@ -2,6 +2,7 @@
 layout: page
 title: About
 image: assets/images/Athens.jpg
+nav-menu: true
 ---
 
 I am Akash Chaurasia, a student of Biomedical Engineering and Computer Science at Johns Hopkins University. I am an imcoming Master's student of Computer Science at Stanford University.
