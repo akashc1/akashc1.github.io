@@ -1,7 +1,7 @@
 ---
-title: Projects
 layout: landing
-description: 'A portfolio of some of my favorite projects I've worked on.'
+title: Projects
+description: A portfolio of some of my favorite projects I've worked on.
 image: assets/images/pic08.jpg
 nav-menu: true
 show_tile: true
@@ -14,9 +14,9 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Project Portfolio</h2>
+			<h2>Introduction</h2>
 		</header>
-		<p>This page outlines and introduces some of the projects I've worked on. Click on any of them to learn more, or check out my <a href="https://github.com/akashc1"> github page </a></p>
+		<p>Here are my favorite projects I've worked on. I mostly work on projects related to machine learning, computer vision, and deep learning. I also tend to play around with anything I find interesting. All of my projects' source code can be found at my <a href="https://github.com/akashc1"> github page.</a></p>
 	</div>
 </section>
 
@@ -29,7 +29,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Hidden Markov Model for part-of-speech Tagging</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
