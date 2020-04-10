@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: More information about my background & interests <br /> Using content from _pages
+description: More information about my background & interests
 image: assets/images/Athens.jpg
 show_tile: true
 ---
