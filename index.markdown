@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Akash R. Chaurasia
+Welcome to my website! Here I'll be adding more content about who I am, work/research that I do, and what I am interested in.

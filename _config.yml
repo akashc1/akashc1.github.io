@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Akash Chaurasia
+title: Akash R. Chaurasia
 email: akashc@jhu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my website which I will use to showcase some of my projects and adventures with computer science.
+    Personal website to showcase projects, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://akashc1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: N/A
 github_username:  akashc1
 
 # Build settings
