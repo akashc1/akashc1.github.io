@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Projects
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic08.jpg
@@ -72,7 +72,7 @@ show_tile: true
 	</section>
 </section>
 
-<!-- Three -->
+<!-- Three 
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -84,5 +84,6 @@ show_tile: true
 		</ul>
 	</div>
 </section>
+-->
 
 </div>
