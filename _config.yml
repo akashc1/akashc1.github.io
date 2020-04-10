@@ -2,7 +2,7 @@
 title: Akash R. Chaurasia
 subtitle: 
 email: akashc@jhu.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A website to showcase projects & my life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://akashc1.github.io"# the base hostname & protocol for your site
 author: Akash Chaurasia
@@ -16,15 +16,11 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/akash.chaurasia.75
 github_url: https://github.com/akashc1
-#gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
+gitlab_url: https://gitlab.com/u/achaura1
+instagram_url: https://instagram.com/kashiomoney
 linkedin_url: https://www.linkedin.com/in/akashchaurasia
-pinterest_url:
-slack_url:
-    #twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
 markdown: kramdown
