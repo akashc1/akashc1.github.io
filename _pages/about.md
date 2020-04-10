@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: More information about my background & interests
 image: assets/images/Athens.jpg
 ---
 
