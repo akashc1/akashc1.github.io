@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+description: A portfolio of projects I've worked on for practice
+image: assets/images/pic11.jpg
+nav-menu: true
 ---
-
-I am Akash Chaurasia, a student of Biomedical Engineering and Computer Science at Johns Hopkins University.
 
 Here are some of my projects:
 
