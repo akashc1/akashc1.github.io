@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Akash Chaurasia'
 description: null
-image: assets/images/Athens.jpg
+image: assets/images/image02.jpg
 author: null
 show_tile: false
 ---
