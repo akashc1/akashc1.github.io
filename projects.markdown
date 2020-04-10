@@ -8,4 +8,4 @@ I am Akash Chaurasia, a student of Biomedical Engineering and Computer Science a
 
 Here are some of my projects:
 
-#### [Biomedical Data Science](http://github.com/akashc1/projects/tree/master/data-science)
+#### [Biomedical Data Science](https://github.com/akashc1/projects/tree/master/data-science#data-science)
