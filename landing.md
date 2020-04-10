@@ -16,7 +16,7 @@ show_tile: true
 		<header class="major">
 			<h2>Project Portfolio</h2>
 		</header>
-		<p>This page outlines and introduces some of the projects I've worked on. Click on any of them to learn more, or check out my <a href=https://github.com/akashc1> github page </a></p>
+		<p>This page outlines and introduces some of the projects I've worked on. Click on any of them to learn more, or check out my <a href="https://github.com/akashc1"> github page </a></p>
 	</div>
 </section>
 
