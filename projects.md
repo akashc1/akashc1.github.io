@@ -1,15 +1,89 @@
 ---
-layout: page
 title: Projects
-description: A portfolio of projects I've worked on for practice
+layout: landing
+description: 'A portfolio of some of my favorite projects I've worked on.'
+image: assets/images/pic08.jpg
 nav-menu: true
 show_tile: true
-image: assets/images/pic06.jpg
 ---
 
+<!-- Main -->
+<div id="main">
 
-Here are some of my projects:
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Project Portfolio</h2>
+		</header>
+		<p>This page outlines and introduces some of the projects I've worked on. Click on any of them to learn more, or check out my <a href="https://github.com/akashc1"> github page </a></p>
+	</div>
+</section>
 
-#### [Biomedical Data Science](https://github.com/akashc1/projects/tree/master/data-science#data-science)
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Orci maecenas</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Rhoncus magna</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sed nunc ligula</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
 
-#### [Language Modeling](https://github.com/akashc1/projects/tree/master/language-models)
+<!-- Three 
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Massa libero</h2>
+		</header>
+		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<ul class="actions">
+			<li><a href="generic.html" class="button next">Get Started</a></li>
+		</ul>
+	</div>
+</section>
+-->
+
+</div>
