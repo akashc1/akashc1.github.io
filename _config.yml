@@ -11,7 +11,7 @@ state: MD
 country: United States of America
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: _pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
