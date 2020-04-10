@@ -6,13 +6,6 @@ permalink: /projects/
 
 I am Akash Chaurasia, a student of Biomedical Engineering and Computer Science at Johns Hopkins University.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here are some of my projects:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+#### [Biomedical Data Science](github.com/akashc1/projects/tree/master/data-science)
