@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 description: A portfolio of projects I've worked on for practice
-image: assets/images/pic11.jpg
 nav-menu: true
 show_tile: true
 ---
