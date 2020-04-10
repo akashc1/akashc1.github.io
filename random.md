@@ -2,7 +2,7 @@
 layout: page
 title: Random test
 description: A portfolio of projects I've worked on for practice
-image: assets/images/Athens.jpg
+image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: true
 ---
