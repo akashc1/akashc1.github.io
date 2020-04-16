@@ -8,7 +8,6 @@ show_tile: true
 nav-menu: true
 ---
 
-I am Akash Chaurasia, a student of Biomedical Engineering and Computer Science at Johns Hopkins University. I am an imcoming Master's student of Computer Science at Stanford University.
 
 <!-- Main -->
 <div id="main">
@@ -19,7 +18,7 @@ I am Akash Chaurasia, a student of Biomedical Engineering and Computer Science a
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Here are my favorite projects I've worked on. I mostly work on projects related to machine learning, computer vision, and deep learning. I also tend to play around with anything I find interesting. All of my projects' source code can be found at my <a href="https://github.com/akashc1"> github page.</a></p>
+		<p>I am Akash Chaurasia, a student of Biomedical Engineering and Computer Science at Johns Hopkins University. I am an imcoming Master's student of Computer Science at Stanford University.</p>
 	</div>
 </section>
 
